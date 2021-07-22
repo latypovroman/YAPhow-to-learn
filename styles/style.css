@@ -175,7 +175,7 @@
     }
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   position: relative;
   background-color: #f2f2f2;
 }
@@ -280,7 +280,7 @@
 }
 
 .footer__column_content_info {
-  justify-content: top;
+  justify-content: left;
 }
 .footer__column_content_copyright {
   flex-basis: 711px;
@@ -288,7 +288,7 @@
 }
 
 .footer__column_content_social {
-  justify-content: top;
+  justify-content: left;
 }
 
 .footer__social-icon {
