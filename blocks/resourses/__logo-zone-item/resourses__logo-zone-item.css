@@ -1,8 +1,0 @@
-.resourses__logo-zone-item {
-  box-sizing: border-box;
-}
-
-.resourses__logo-zone-item:hover {
-  background: linear-gradient(0deg,rgba(230,230,250,0.3) 3%, rgba(230,230,250,0) 20%);
-  transition: 0.3s;
-}
